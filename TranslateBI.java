@@ -39,7 +39,7 @@ public class TranslateBI {
     public static void main(String[] args) {
         // TODO Auto-generated method stub
 
-        execTranslate("c:\\OracleBI\\web\\msgdb\\l_ru\\messages\\", "c:\\OracleBI\\web\\msgdb\\l_ua\\messages\\");
+        execTranslate("obi\\web\\msgdb\\l_ru\\messages\\", "obi\\web\\msgdb\\l_uk\\messages\\");
     }
 
     public static void execTranslate(String inputDirectoryName, String outputDirectoryName) {
